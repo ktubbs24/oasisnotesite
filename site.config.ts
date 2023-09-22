@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'O.A.S.I.S.',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'oasisnotesite.vercel.app',
   author: 'Kwenela Tubbs',
 
   // open graph metadata (optional)
