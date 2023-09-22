@@ -2,19 +2,19 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '7875426197cf461698809def95960ebf',
+  rootNotionPageId: 'ed78116dc6e34bdfbff9499434b4e352',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
+  name: 'O.A.S.I.S.',
   domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  author: 'Kwenela Tubbs',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Optimized Automated Streamlined Integrated Systems',
 
   // social usernames (optional)
   twitter: 'transitive_bs',
@@ -55,11 +55,11 @@ export default siteConfig({
   // navigationLinks: [
   //   {
   //     title: 'About',
-  //     pageId: 'f1199d37579b41cbabfc0b5174f4256a'
+  //     pageId: 'a923a96035074df5847935aa46092b01'
   //   },
   //   {
   //     title: 'Contact',
-  //     pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
+  //     pageId: 'd6e70fb4d6204f1f9333f1e0759239d0'
   //   }
   // ]
 })
